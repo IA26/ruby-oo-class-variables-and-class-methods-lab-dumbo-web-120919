@@ -23,10 +23,10 @@ class Song
     @@artists
   end
   
-  def self.genres 
-    @@genres 
-  end 
+#   def self.genres 
+#     @@genres 
+#   end 
   
-  def self.artist_count
-  end
-end #end of class 
+#   def self.artist_count
+#   end
+# end #end of class 
