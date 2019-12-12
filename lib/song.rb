@@ -26,4 +26,7 @@ class Song
   def self.genres 
     @@genres 
   end 
+  
+  def self.artist_count
+  end
 end #end of class 
